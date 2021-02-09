@@ -1,0 +1,53 @@
+.box {
+	align-items: center;
+	background: linear-gradient(90deg, #0054e3 0%, #008FD8 100%);
+	border-radius: 10px;
+	bottom: 0;
+	box-shadow: 0px 16px 40px 5px #7090b0;
+	display: flex;
+	height: 70px;
+	justify-content: center;
+	margin: 25px;
+	position: absolute;
+	right: 0;
+	-webkit-box-shadow: 0px 16px 40px 20% #7090b0;
+}
+
+.progress {
+	background-color: #e9ecef;
+	border-radius: 25px !important;
+	display: flex;
+	font-size: 0.75rem;
+	height: 0.1rem !important;
+	overflow: hidden;
+	width: 220px !important;
+}
+
+.rounded-3 {
+	border-radius: 10px !important;
+}
+
+.img-size {
+	height: 16px;
+	margin: 5px;
+	width: 16px;
+}
+
+.data {
+	flex-direction: column;
+}
+
+.header-music {
+	color: #fff !important;
+	margin: 0 !important;
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	font-weight: 600 !important;
+	font-size: 18px;
+}
+
+.body-music {
+	color: #9ddffd;
+	font-weight: 700;
+	font-size: 14px;
+}
